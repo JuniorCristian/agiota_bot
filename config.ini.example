@@ -1,0 +1,8 @@
+[TELEGRAM]
+token=<bot_token>
+
+[NUBANK]
+token=<token>
+account_cpf=<account_cpf>
+account_password=<account_password>
+cert_path=<cert_path>
