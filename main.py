@@ -1,5 +1,5 @@
-import logging
-from db import get_database
+# import logging
+# from db import get_database
 import configparser
 import telebot
 
